@@ -1,0 +1,4 @@
+baseURL = 'https://Tristen44.github.io/'
+languageCode = 'en-us'
+title = "Tristen's Blog"
+theme = 'wowchemy-hugo-themes'
